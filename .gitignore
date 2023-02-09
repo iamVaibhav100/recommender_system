@@ -57,5 +57,8 @@ wheels/
 .installed.cfg
 *.egg
 
+# data files
+*.pkl
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
