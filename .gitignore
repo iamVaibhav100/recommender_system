@@ -59,7 +59,6 @@ wheels/
 
 # data files
 *.pkl
-/webapp/*.pkl
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
